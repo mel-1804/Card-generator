@@ -1,0 +1,8 @@
+#carta{
+    height: 450px;
+    width: 300px;
+}
+
+#pintaFig1, #pintaFig2, #numeroFig{
+    font-size: 70px;
+}
